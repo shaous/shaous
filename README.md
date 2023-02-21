@@ -9,10 +9,6 @@ Hi, I'm Shayan, a 17 year old React developer from Iran/Sanandaj. Don't let my a
 * 🌍  I'm Live in Iran, Sanandaj
 * ✉️  You can contact me at [sadmwchshyshayan55@gmail.com](mailto:sadmwchshyshayan55@gmail.com )
 
-<a href="https://www.twitter.com/shayandeveloper " target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/shayandeveloper ?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
-/></a><a href="https://www.github.com/shaous" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shaous?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 
 ### Skills
 
