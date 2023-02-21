@@ -1,4 +1,4 @@
-Hi 👋 My name is SHAYAN SAED
+Hi 👋 My name is shayan saed
 ============================
 
 Front end Developer - UI , UX Designer'
@@ -9,6 +9,7 @@ Hi, I'm Shayan, a 17 year old React developer from Iran/Sanandaj. Don't let my a
 * 🌍  I'm Live in Iran, Sanandaj
 * ✉️  You can contact me at [sadmwchshyshayan55@gmail.com](mailto:sadmwchshyshayan55@gmail.com )
 * ⚡ Fun fact: Develop is game and developer a gamer, must learn more languages and tools to be strong and legend gamer...
+* 💬 Ask me about: Web Development, React, Ui & Ux Design
 
 
 <h3 align="left">Skills - Languages and Tools:</h3>
