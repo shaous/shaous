@@ -31,9 +31,3 @@ Always i search for latest technology of web development, thats so enjoyable...<
 <a href="https://linkedin.com/in/shayan saed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan saed" height="30" width="40" /></a>
 <a href="https://instagram.com/developer__kid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer__kid" height="30" width="40" /></a>
 </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/shaous"><img src="https://github-readme-stats.vercel.app/api?username=shaous&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=14b8a6&bg_color=171717&hide_border=true&show_icons=true" alt="shaous's GitHub stats" /></a>
