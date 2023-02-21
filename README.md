@@ -8,6 +8,7 @@ Hi, I'm Shayan, a 17 year old React developer from Iran/Sanandaj. Don't let my a
 
 * 🌍  I'm Live in Iran, Sanandaj
 * ✉️  You can contact me at [sadmwchshyshayan55@gmail.com](mailto:sadmwchshyshayan55@gmail.com )
+* ⚡ Fun fact: Develop is game and developer a gamer, must learn more languages and tools to be strong and legend gamer...
 
 
 <h3 align="left">Skills - Languages and Tools:</h3>
