@@ -4,7 +4,7 @@ Hi 👋 My name is SHAYAN SAED
 Front end Developer - UI , UX Designer'
 ---------------------------------------
 
-Since 2020, I have been interested in site design and programming, maybe you can tell me how I tell you now. In 2020, I bought a laptop for university and ... I wanted to choose the field of physical education, but one day I wondered how these sites and apps are made? I did a Google search and came across the word programming, and I was wondering what? I searched again to see how to learn it, I saw the first point is that you must have a laptop or computer, I was more hopeful. I started learning and saw that many courses are expensive and I can not buy them because it is a risk, maybe I did not like programming at that time and I was at a loss. I searched again as usual and saw that many sites have free courses and I started watching videos. After a few days, I got tired because my first experience was working with a computer. It was doubly difficult for me, and it took me 20 days to stop programming. I searched again, this time I got lucky and found a complete and excellent site, I started, I was going great, and first I learned Html and then css, I gradually became interested in programming, but now I love it. After 2 months, I realized that I had to learn JavaScript, because JavaScript is the brain of the site, I still had problems because I did not have a good training resource for learning JavaScript.
+Hi, I'm Shayan, a 17 year old React developer from Iran/Sanandaj. Don't let my age fool you - I've been coding for 3 years! #YoungButTalented
 
 * 🌍  I'm Live in Iran, Sanandaj
 * ✉️  You can contact me at [sadmwchshyshayan55@gmail.com](mailto:sadmwchshyshayan55@gmail.com )
