@@ -16,7 +16,7 @@ Hi, I'm Shayan, a 17 year old React developer from Iran/Sanandaj. Don't let my a
 
 ### Socials
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/developer__kid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developer__kid" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shayan saed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan saed" height="30" width="40" /></a>
