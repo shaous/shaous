@@ -1,4 +1,4 @@
-Hi 👋 My name is Shayan Saed
+Hi 👋🏻 my name is Shayan Saed
 ============================
 
 <h2 align="left">Front-end developer</h2>
