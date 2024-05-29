@@ -1,7 +1,7 @@
 Hi 👋 My name is Shayan Saed
 ============================
 
-<h2 align="left">Front end Developer - UI , UX Designer</h2>
+<h2 align="left">Front-end developer</h2>
 
 <h3 align="left">Impact-Focused Frontend Developer with +3 years of experience in Web Development. I am passionate about helping companies achieve exceptional user experiences...</h3>
 
