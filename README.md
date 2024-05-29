@@ -25,4 +25,5 @@ Hi 👋 My name is Shayan Saed
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shayan saed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan saed" height="30" width="40" /></a>
+<a href="https://t.me/developerkid01" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="shayan saed" height="30" width="40" /></a>
 </p>
