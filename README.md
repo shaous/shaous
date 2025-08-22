@@ -1,28 +1,11 @@
-Hi 👋🏻 my name is Shayan Saed
-============================
-
-<h2 align="left">Front-end developer</h2>
-
-<h3 align="left">Impact-Focused Frontend Developer with +3 years of experience in Web Development. I am passionate about helping companies achieve exceptional user experiences...</h3>
+# 👨‍💻 About Me:
+I am a Full-Stack Software developer with a primary focus on Front-End development. My expertise lies in crafting modern, scalable, and user-centric web applications using cutting-edge technologies.<br><br>💡 Core Skills<br>• Languages: JavaScript, TypeScript<br>• Frameworks & Libraries: React.js, Next.js<br>• Development Areas: Front-End development, UI/UX-driven development, Full-Stack implementation when needed<br><br>🔍 Professional Interests<br>• Research in the field of Software Engineering<br>• Exploring modern web architectures and best practices<br>• Bridging theory and practice to build reliable, maintainable, and efficient software<br><br>📫 Collaboration<br>I am always eager to collaborate on meaningful projects, contribute to open-source, and engage in discussions that advance the software engineering discipline.
 
 
-</br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shayansaed) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=linkedin&logoColor=white)](https://t.me/developerkid01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shayansaed.dev@gmail.com) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img align="right" width="430" height="280" style="border-radius:25px; position:fixed;" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2M3Z2p4eDk5cmdmYTBpdGt6N2tyc3llMWYzeXk1OXAzejRkMnlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
-
-
-✉️  You can contact me at [shayansaed.dev@gmail.com](mailto:shayansaed.dev@gmail.com) <br/>
-⚡ Fun fact: Develop is game and developer a gamer, must learn more languages and tools to be strong and legend gamer...
-<br/>
-
-<h3 align="left">Skills - Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/368858/nextjs.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/download/354048/material-ui.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-
-<h3 align="left">Socials:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shayan saed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayan saed" height="30" width="40" /></a>
-<a href="https://t.me/developerkid01" target="blank"><img align="center" src="https://www.svgrepo.com/download/452115/telegram.svg" alt="shayan saed" height="30" width="40" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
